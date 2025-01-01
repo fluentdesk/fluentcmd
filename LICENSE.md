@@ -1,7 +1,7 @@
 The MIT License
 ===============
 
-Copyright (c) 2015-2018 hacksalot (https://github.com/hacksalot)
+Copyright (c) 2015-2025 hacksalot (https://github.com/hacksalot)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
